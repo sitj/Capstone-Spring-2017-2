@@ -8,16 +8,6 @@ public class AttackBehaviour : StateMachineBehaviour
 		animator.GetComponent<Character>().Attack = true;
 		
 		animator.SetFloat("speed", 0);
-		
-		//Player.Instance.Attack = true;
-		
-		//if (animator.tag == "Player")
-		//{
-		//	if (Player.Instance.OnGround)
-		//	{
-		//		Player.Instance.MyRigidbody.velocity = Vector2.zero;
-		//	}
-		//}
 	}
 	
 	override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

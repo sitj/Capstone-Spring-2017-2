@@ -22,7 +22,7 @@ public class PlayerControl : MonoBehaviour {
     public float speed;
     public float jump;
     private float moveVelocity;
-    private bool grounded = true;
+    //private bool grounded = true;
     private SpriteRenderer mySpriteRenderer;
     public Animator anim;
     public Collider2D attacktriggerleft;
@@ -33,22 +33,26 @@ public class PlayerControl : MonoBehaviour {
     private bool attacking = false;
     private bool change = false;
 
-
-    void Start() {
+	public bool grounded = true;
+    public float groundCheckRadius;
+    public LayerMask WhatIsGround;
+    //public Transform groundCheck;
+	
+    void Start()
+	{
         mySpriteRenderer = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
 		playerHealth.Initialize();
-		//playerHealth.bar = gameObject.AddComponent(System.Type.GetType("BarScript"));
-		//GameObject sc = GetComponent(System.Type.GetType("PlayerHealthBar")) as GameObject;
-		//playerHealth.bar = sc;
     }
+	
     void Awake()
     {
         attacktriggerleft.enabled = false;
         attacktriggerright.enabled = false;
     }
 
-    void Update () {
+    void Update ()
+	{
         print(change);
 
         if (Input.GetKeyUp(KeyCode.F) && attacking == true)
@@ -115,17 +119,41 @@ public class PlayerControl : MonoBehaviour {
             anim.SetBool("attack", true);
         }
 	}
-
+	
+	/*
+	void FixedUpdate()
+	{
+		grounded = Physics2D.OverlapCircle(transform.position, groundCheckRadius, WhatIsGround);
+		
+		if (grounded)
+		{
+			grounded = true;
+			anim.SetBool("IsGrounded", true);
+		}
+		
+		else if (!grounded)
+		{
+			grounded = false;
+			anim.SetBool("IsGrounded", false);
+		}
+	}
+	*/
+	
     void OnTriggerEnter2D() {
         grounded = true;
         anim.SetBool("IsGrounded", true);
     }
-
+	/*
+	void OnTriggerStay2D() {
+        grounded = true;
+        anim.SetBool("IsGrounded", true);
+    }
+	*/
     void OnTriggerExit2D() {
         grounded = false;
         anim.SetBool("IsGrounded", false);
     }
-	
+		
 	public void HurtPlayer(int damageToGive)
 	{
 		playerHealth.CurrentVal -= damageToGive;

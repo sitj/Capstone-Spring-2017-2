@@ -100,18 +100,6 @@ public class Enemy : Character
 	public Vector2 GetDirection()
 	{
 		return facingRight ? Vector2.right : Vector2.left;
-		
-		/*
-		if (facingRight)
-		{
-			return Vector2.right;
-		}
-		else
-		{
-			return Vector2.left;
-		}
-		*/
-		
 	}
 	
 	public override void OnTriggerEnter2D(Collider2D other)
