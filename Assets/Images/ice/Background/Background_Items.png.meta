@@ -1,0 +1,1546 @@
+fileFormatVersion: 2
+guid: 2e965a184b8cf7341bb9782dbcaaf46d
+timeCreated: 1487302795
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background_Items_0
+    21300002: Background_Items_1
+    21300004: Background_Items_2
+    21300006: Background_Items_3
+    21300008: Background_Items_4
+    21300010: Background_Items_5
+    21300012: Background_Items_6
+    21300014: Background_Items_7
+    21300016: Background_Items_8
+    21300018: Background_Items_9
+    21300020: Background_Items_10
+    21300022: Background_Items_11
+    21300024: Background_Items_12
+    21300026: Background_Items_13
+    21300028: Background_Items_14
+    21300030: Background_Items_15
+    21300032: Background_Items_16
+    21300034: Background_Items_17
+    21300036: Background_Items_18
+    21300038: Background_Items_19
+    21300040: Background_Items_20
+    21300042: Background_Items_21
+    21300044: Background_Items_22
+    21300046: Background_Items_23
+    21300048: Background_Items_24
+    21300050: Background_Items_25
+    21300052: Background_Items_26
+    21300054: Background_Items_27
+    21300056: Background_Items_28
+    21300058: Background_Items_29
+    21300060: Background_Items_30
+    21300062: Background_Items_31
+    21300064: Background_Items_32
+    21300066: Background_Items_33
+    21300068: Background_Items_34
+    21300070: Background_Items_35
+    21300072: Background_Items_36
+    21300074: Background_Items_37
+    21300076: Background_Items_38
+    21300078: Background_Items_39
+    21300080: Background_Items_40
+    21300082: Background_Items_41
+    21300084: Background_Items_42
+    21300086: Background_Items_43
+    21300088: Background_Items_44
+    21300090: Background_Items_45
+    21300092: Background_Items_46
+    21300094: Background_Items_47
+    21300096: Background_Items_48
+    21300098: Background_Items_49
+    21300100: Background_Items_50
+    21300102: Background_Items_51
+    21300104: Background_Items_52
+    21300106: Background_Items_53
+    21300108: Background_Items_54
+    21300110: Background_Items_55
+    21300112: Background_Items_56
+    21300114: Background_Items_57
+    21300116: Background_Items_58
+    21300118: Background_Items_59
+    21300120: Background_Items_60
+    21300122: Background_Items_61
+    21300124: Background_Items_62
+    21300126: Background_Items_63
+    21300128: Background_Items_64
+    21300130: Background_Items_65
+    21300132: Background_Items_66
+    21300134: Background_Items_67
+    21300136: Background_Items_68
+    21300138: Background_Items_69
+    21300140: Background_Items_70
+    21300142: Background_Items_71
+    21300144: Background_Items_72
+    21300146: Background_Items_73
+    21300148: Background_Items_74
+    21300150: Background_Items_75
+    21300152: Background_Items_76
+    21300154: Background_Items_77
+    21300156: Background_Items_78
+    21300158: Background_Items_79
+    21300160: Background_Items_80
+    21300162: Background_Items_81
+    21300164: Background_Items_82
+    21300166: Background_Items_83
+    21300168: Background_Items_84
+    21300170: Background_Items_85
+    21300172: Background_Items_86
+    21300174: Background_Items_87
+    21300176: Background_Items_88
+    21300178: Background_Items_89
+    21300180: Background_Items_90
+    21300182: Background_Items_91
+    21300184: Background_Items_92
+    21300186: Background_Items_93
+    21300188: Background_Items_94
+    21300190: Background_Items_95
+    21300192: Background_Items_96
+    21300194: Background_Items_97
+    21300196: Background_Items_98
+    21300198: Background_Items_99
+    21300200: Background_Items_100
+    21300202: Background_Items_101
+    21300204: Background_Items_102
+    21300206: Background_Items_103
+    21300208: Background_Items_104
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 244
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_Items_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1834
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1815
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1800
+        width: 174
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1802
+        width: 178
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1803
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1913
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1902
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1660
+        width: 964
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1825
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_9
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1869
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1864
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_11
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1812
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1744
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1744
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1754
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1739
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1719
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1721
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1721
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1735
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1735
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1713
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1708
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1708
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1708
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1617
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_26
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1673
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1690
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_28
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1678
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1636
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1677
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1665
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_32
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1668
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1642
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1670
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1653
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1622
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_37
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1607
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1637
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_39
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_40
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1606
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_41
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1605
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1317
+        width: 964
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1522
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1592
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1596
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1463
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1522
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_48
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1391
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_49
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1391
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1402
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1394
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1318
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1287
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1305
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_55
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1315
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1327
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1281
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_58
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1280
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_59
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1282
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_60
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1282
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_61
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1282
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_62
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1282
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1231
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1167
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_65
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1172
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_66
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1172
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_67
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1172
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 977
+        width: 964
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1169
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_70
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1169
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1178
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_72
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1182
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 838
+        width: 178
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_74
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1046
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1037
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_76
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1040
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_77
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1044
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_78
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1038
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_79
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1043
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_80
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1049
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_81
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 933
+        width: 338
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_82
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 916
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_83
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 29
+        width: 177
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 836
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_85
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 836
+        width: 194
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_86
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 836
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 720
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 720
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 720
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_90
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 631
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_91
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 631
+        width: 102
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_92
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 29
+        width: 486
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_93
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 619
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_94
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 619
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 619
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_96
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 29
+        width: 275
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_97
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 496
+        width: 100
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_98
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 450
+        width: 137
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_99
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 29
+        width: 334
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_100
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 339
+        width: 161
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 247
+        width: 188
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 158
+        width: 216
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_103
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 60
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background_Items_104
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 89
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
