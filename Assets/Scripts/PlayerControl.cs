@@ -177,7 +177,7 @@ public class PlayerControl : MonoBehaviour {
             isDead = true;
         }
 		
-		else if (collision.gameObject.tag == "Enemy")
+		else if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Boss")
 		{
 			HurtPlayer(enemyDamage);
 			//playerHealth = playerHealth - 10;
